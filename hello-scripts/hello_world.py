@@ -3,3 +3,4 @@
 # GITHUB: https://github.com/szepnapot
 
 print("Hello, Github world Let's start a wonderful Coding!")
+print("Hello")
